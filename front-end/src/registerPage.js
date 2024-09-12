@@ -51,7 +51,7 @@ const RegisterPage = () => {
                 onChange={handleRegisterChange} 
                 required />
             <button type='submit'>Register</button>
-            <p>Already have account? <Link to="/login">Login Here</Link></p>  
+            <p>Already have account ? <Link to="/login">Login Here</Link></p>  
         </form>
     </div>
   )
